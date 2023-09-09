@@ -1,0 +1,77 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "Lekan Okeowo",
+      "email": "lekan.okeowo@gmail.com",
+      "card_number": "0918 8124 0042 8129",
+      "expiry_date": "12/24",
+      "cvc": "124"
+    }
+  ],
+  "expenses": [
+    {
+      "id": 1,
+      "name": "Balance",
+      "date": "April 2023",
+      "nominal": 20129
+    },
+    {
+      "id": 2,
+      "name": "Income",
+      "date": "April 2023",
+      "nominal": 20129
+    },
+    {
+      "id": 3,
+      "name": "Expenses",
+      "date": "April 2023",
+      "nominal": 20129
+    }
+  ],
+  "latest_transaction": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john.doe@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "John Smith",
+      "email": "john.smith@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Jane Doe",
+      "email": "jane.doe@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Jane Smith",
+      "email": "jane.smith@gmail.com"
+    }
+  ],
+  "transaction_history": [
+    {
+      "id": 1,
+      "name": "Cash Withdrawal",
+      "date": "13 April 2023",
+      "nominal": 20129,
+      "type": "expense"
+    },
+    {
+      "id": 2,
+      "name": "Landing Page Project",
+      "date": "13 April 2023",
+      "nominal": 2000,
+      "type": "income"
+    },
+    {
+      "id": 3,
+      "name": "Juni Mobile App Project",
+      "date": "13 April 2023",
+      "nominal": 20129,
+      "type": "income"
+    }
+  ]
+}
